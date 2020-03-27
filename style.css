@@ -1,6 +1,6 @@
- @import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
  body {
-   font-family:"Josefin Sans",sans-serif;
+   font-family:"Inconsolata",sans-serif;
  }
 .mainpage {
    height:100%;
